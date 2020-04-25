@@ -23,6 +23,6 @@ The only condition is that you have to have fun
 
 Follow my on twitter: [@TorregrozaPaolo](https://twitter.com/TorregrozaPaolo)
 
-[My portfolio](paolotorregroza.github.io/portfolio)
+[My portfolio](https://paolotorregroza.github.io/portfolio/)
 
 [My website (Building)](#)
