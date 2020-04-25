@@ -1,6 +1,6 @@
-# Paolinsky's fantastical adventure in the assembler world
+# Paolinsky's fantastical adventure in the assembly world
 
-In this repo I will put the different advances that I have in my assembler studies (while they last)
+In this repo I will put the different advances that I have in my assembly studies (while they last)
 
 ### My setup
 
